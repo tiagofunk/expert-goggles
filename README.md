@@ -7,5 +7,3 @@ Esse projeto foi feito para mostrar .....
 - Primeira tarefa
 - Segunda tarefa
 - Terceira Tarefa
-
-Repositório da turma INFO23A
